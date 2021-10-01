@@ -1,1 +1,6 @@
-### Special Strings!
+Strings are useful things. 
+This is a string!
+String formatting is useful to!
+name = "Old Greg"
+Like 'Hello, %s' % name = 'Hello Old Greg'
+See how useful that was?
